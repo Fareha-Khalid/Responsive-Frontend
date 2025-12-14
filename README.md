@@ -1,6 +1,6 @@
 # Responsive-Frontend
 
-# Software House Website - Frontend Development
+ Software House Website - Frontend Development
 
 ## Description
 This project is a simple, professional frontend website for a software house. It is built using **HTML, CSS, and JavaScript** only. The website is responsive, has smooth animations, a user-friendly navigation menu, and an interactive contact form with client-side validation.
